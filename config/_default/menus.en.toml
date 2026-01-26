@@ -1,0 +1,64 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Features"
+url = "/features"
+weight = 2
+
+[[main]]
+name = "Solutions"
+url = "/solutions"
+weight = 3
+
+[[main]]
+name = "Security"
+url = "/security"
+weight = 4
+
+[[main]]
+name = "About"
+url = "/about"
+weight = 5
+
+[[main]]
+name = "Contact"
+url = "/contact"
+weight = 6
+
+
+# footer menu
+[[footer]]
+name = "Features"
+url = "/features"
+weight = 1
+
+[[footer]]
+name = "Solutions"
+url = "/solutions"
+weight = 2
+
+[[footer]]
+name = "Security"
+url = "/security"
+weight = 3
+
+[[footer]]
+name = "About"
+url = "/about"
+weight = 4
+
+[[footer]]
+name = "Contact"
+url = "/contact"
+weight = 5
+
+[[footer]]
+name = "Privacy Policy"
+url = "/privacy-policy"
+weight = 6
