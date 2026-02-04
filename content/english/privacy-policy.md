@@ -348,4 +348,4 @@ We may update this Privacy Policy from time to time. When we make material chang
 ### General Support
 
 **Email**: support@glaicier.com  
-**Website**: [https://novalysis.io](https://novalysis.io)
+**Website**: [https://novalysis.ai](https://novalysis.ai)
